@@ -2,7 +2,7 @@ import numpy as np;
 vector = np.array([1,2,3,4,5,6,7,8,9,0])
 
 print(vector.size)
-print(vector.ndim)
+print(vector.ndim, "\n")
 print(vector.dtype, "\n")
 
 matriz = np.array(([2,3,4,1],[1,2,3,4],[1,2,3,4],[1,2,3,4]))
